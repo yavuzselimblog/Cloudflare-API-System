@@ -83,7 +83,7 @@ class Website extends CI_Controller{
                         //print_r($result);
     
                         $zone_id = $result["result"]["id"];
-                        $this->common_model->update(['siteid'=>$lastid, "siteekleyen" => $this->session->userdata('admincode')],['sitezone'=>$zone_id],'websiteler');
+                        $this->common_model->update(['siteid'=>$lastid, 'siteekleyen' => $this->session->userdata('admincode')],['sitezone'=>$zone_id],'websiteler');
     
                     }
                     
