@@ -8,7 +8,7 @@
   -----------------
   Domain ekleme, silme, güncelleme
   Toplu domain ekleme
-  Dns ekleme, silme
+  DNS ekleme, silme işlemi
   -----------------
   Adding, deleting, updating domains
   Bulk add domains
