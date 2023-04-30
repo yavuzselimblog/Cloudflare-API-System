@@ -7,7 +7,8 @@
  
   -----------------
   Domain ekleme, silme, güncelleme
-  Toplu domain ekleme, dns ekleme, dns silme
+  Toplu domain ekleme, 
+  dns ekleme, dns silme
   
   -----------------
   Adding, deleting, updating domains
@@ -15,7 +16,7 @@
   Add, delete dns
   
   
-  -----------------
+ 
   https://www.instagram.com/bcysoftware/
   
   https://www.linkedin.com/company/bcysoftware-solutions/
