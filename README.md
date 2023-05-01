@@ -31,3 +31,11 @@ https://www.youtube.com/watch?v=thcS5v9aGQo
   https://www.facebook.com/bcysoftware/
   
   https://bcysoftware.com
+  
+  
+  
+(not : demo linke girilen tüm veriler 1 gün sonra otomatik silinmektedir. İsteyen demo linkten sistemi test edebilir isteyen de kodları indirip dilediği sunucuda sistemi kurup kendi sistemini çalıştırabilir.)
+
+---
+
+(Note: All data entered on the demo link is automatically deleted after 1 day. Anyone can test the system from the demo link, and anyone who wants can download the codes and set up the system on the server they want and run their own system.)
