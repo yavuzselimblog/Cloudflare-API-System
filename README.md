@@ -18,7 +18,9 @@
   * Add, delete dns
  
  -------------------
- [https://www.youtube.com/embed/thcS5v9aGQo"]
+https://www.youtube.com/watch?v=thcS5v9aGQo
+
+
   
   
   -----------------
